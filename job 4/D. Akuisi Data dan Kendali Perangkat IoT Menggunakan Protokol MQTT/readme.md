@@ -41,10 +41,13 @@
 
    <img src="https://github.com/brianrahma/system-embedded/assets/82065700/9986c798-6e72-4c3d-b454-1c55d0c21d70" width="500">
 
-2. Dokumentasi
+2. Dokumentasi 
    
    ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/Media/2.%20Dokumentasi%202.jpeg?raw=true)
    
 3. Widget On/Off Adafruit
    
    ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/Media/gif.gif?raw=true)
+
+<b><p>7. Analisa </p></b>
+<p>Kode ini mengimpor beberapa pustaka yang diperlukan, termasuk pustaka WiFi dan pustaka MQTT dari Adafruit. Kode tersebut digunakan sebagai implementasi untuk menghubungkan perangkat ESP8266 dengan protokol MQTT (Message Queuing Telemetry Transport) ke server Adafruit IO. Program juga akan meng-handle pesan yang diterima dari topik MQTT 'led'. Jika pesan adalah "1", maka pin keluaran akan diaktifkan (HIGH), jika bukan "1", maka pin keluaran akan dimatikan (LOW). Dilakukanlah pengecekan, apakah koneksi ke server MQTT sudah terhubung. Jika belum, maka akan melakukan koneksi ulang dengan retry dan menunggu 5 detik di setiap percobaan.</p>

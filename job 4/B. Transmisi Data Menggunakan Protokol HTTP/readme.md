@@ -61,3 +61,5 @@ Penjelasan kode untuk Metode POST
    ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/B.%20Transmisi%20Data%20Menggunakan%20Protokol%20HTTP/Media/Metode%20POST/4.%20Dashboard%20Node-RED.jpeg?raw=true)
 
 <p align="justify">
+<b><p>7. Analisa </p></b>
+<p>Kode tersebut mengonfigurasi dan menghubungkan perangkat Arduino ke jaringan WiFi, dan kemudian secara berkala mengirimkan data sensor simulasi melalui HTTP POST request ke server yang ditentukan. Kode ini digunakan untuk mensimulasikan pengiriman data sensor banjir kepada server yang dapat diakses melalui alamat IP tertentu. Jika koneksi WiFi terputus, pesan kesalahan akan ditampilkan di Serial Monitor.</p>

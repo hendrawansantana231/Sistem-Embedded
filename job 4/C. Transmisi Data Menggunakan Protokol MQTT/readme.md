@@ -31,3 +31,8 @@
    ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/C.%20Transmisi%20Data%20Menggunakan%20Protokol%20MQTT/Media/4.%20Dashboard%20Node-RED.jpeg?raw=true)
 
 <p align="justify">
+<b><p>6. Analisa </p></b>
+<p>Program menggunakan tiga library, yaitu WiFi untuk koneksi Wi-Fi, PubSubClient untuk koneksi MQTT, dan ArduinoJson untuk memanipulasi data JSON. Kemudian Inisialisasi variabel-variabel yang digunakan, seperti SSID dan password untuk koneksi Wi-Fi, serta alamat server MQTT. Program mencoba untuk terhubung ke jaringan Wi-Fi dengan menggunakan SSID dan password yang telah ditentukan. Data JSON yang akan dikirimkan melibatkan perangkat ID, level, jumlah hujan, dan aliran. 
+Data ini mungkin merepresentasikan informasi dari suatu perangkat atau sensor yang terkait dengan smart water management. Misalnya, dev_id mungkin adalah identifikasi perangkat, level dapat mengindikasikan tinggi air, rainfall dapat menunjukkan jumlah hujan, dan flow mungkin mencerminkan laju aliran air.
+
+</p>

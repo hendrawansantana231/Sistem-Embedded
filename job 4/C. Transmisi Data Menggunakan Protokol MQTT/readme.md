@@ -10,25 +10,30 @@
 
 ## 3. Source Code
 
-  ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/C.%20Transmisi%20Data%20Menggunakan%20Protokol%20MQTT/Media/Penjelasan%20Kode.jpeg?raw=true)
+ ![Penjelasan Kode](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/c400b610-3a73-4e09-a7be-0058007e3e06)
+
 
 ## 5. Hasil Percobaan
 
 1. Flow chart program ESP32
    
-   ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/C.%20Transmisi%20Data%20Menggunakan%20Protokol%20MQTT/Media/Flow%20Chart.png?raw=true)
+ ![Flow Chart](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/ecb66904-4caa-4bcd-b655-761c3a22ff23)
+
    
 2. Output serial monitor
    
-   ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/C.%20Transmisi%20Data%20Menggunakan%20Protokol%20MQTT/Media/2.%20Output%20serial%20monitor.jpeg?raw=true)
+![2  Output serial monitor](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/78c60d31-81a2-4c43-9626-4c539b573188)
+
    
 3. Debug Node-RED
    
-   ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/C.%20Transmisi%20Data%20Menggunakan%20Protokol%20MQTT/Media/3.%20Debug%20Node-RED.jpeg?raw=true)
+  ![3  Debug Node-RED](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/e683f449-42d4-4e46-b99c-588133006b39)
+
    
 4. Dashboard Node-RED
    
-   ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/C.%20Transmisi%20Data%20Menggunakan%20Protokol%20MQTT/Media/4.%20Dashboard%20Node-RED.jpeg?raw=true)
+![4  Dashboard Node-RED](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/0f27698a-f5e9-4b44-bbd8-a61b6980d072)
+
 
 <p align="justify">
 <b><p>6. Analisa </p></b>

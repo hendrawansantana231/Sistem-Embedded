@@ -13,37 +13,45 @@
 
 ## 3. Source Code
 
-![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/Media/Penjelasan%20Kode.jpeg?raw=true)
+![Penjelasan Kode](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/0827cb55-e728-464c-9de8-2fb46006f384)
+
 
 ## 4. Flow Program
-<img src="https://github.com/brianrahma/system-embedded/blob/master/jobsheet%204/B.%20Transmisi%20Data%20Menggunakan%20Protokol%20HTTP/flow%20program%20.png" width="800">
+![flow program ](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/b81a6645-f5a4-4e38-a4db-43f2d1430a81)
+
 
 ## 5. Hasil Percobaan Kontrol Nyala LED Melalui Dashboard Node-RED
 
 1. Flow chart program ESP32
    
-   <img src="https://github.com/brianrahma/system-embedded/assets/82065700/6d63519d-f4b5-4fc5-b70b-da925b0001ee" width="300">
+  ![Flow chart program ESP32](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/871c806f-8bc7-4e62-be1d-d9e49bbf8c69)
+
    
 2. Dokumentasi
    
-   ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/Media/2.%20Dokumentasi%201.jpeg?raw=true)
+![2  Dokumentasi 1](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/e211629d-a585-4f43-8d32-5f48cf0a737a)
+
 
 3. Debug Node-RED
    
-   ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/Media/3.%20Debug%20Node-RED.jpeg?raw=true)
+![3  Debug Node-RED](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/3edb5f96-525e-41d9-813c-4e7a1c1a2d57)
+
    
 4. Dashboard Node-RED
    
-   <img src="https://github.com/brianrahma/system-embedded/blob/master/jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/dashboard1.png" width="700">
+  ![dashboard1](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/683139e0-5528-4f5e-8de5-9493d4fbfae5)
+
 
 ## 6. Hasil Percobaan Kontrol Nyala LED Melalui Dashboard Adafruit
 1. Flow chart program ESP32
 
-   <img src="https://github.com/brianrahma/system-embedded/assets/82065700/9986c798-6e72-4c3d-b454-1c55d0c21d70" width="500">
+ ![Flowchart program 2](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/d32033f6-c1f6-486f-abf4-8a6199a6b174)
+
 
 2. Dokumentasi 
    
-   ![alt text](https://github.com/rayabima/Embedded-System/blob/main/Jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/Media/2.%20Dokumentasi%202.jpeg?raw=true)
+   ![2  Dokumentasi 2](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/945bcbd8-1ace-4a20-b597-2d4fd04f2b31)
+
    
 3. Widget On/Off Adafruit
    

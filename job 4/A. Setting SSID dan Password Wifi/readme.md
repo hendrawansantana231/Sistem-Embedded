@@ -6,18 +6,22 @@
 
 ## 2. Source Code
 
-![alt text](https://github.com/rayabima/Embedded-System/blob/main/Media/Penjelasan%20Kode.jpeg?raw=true)
+![Penjelasan Kode](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/d1250a70-9a7c-41af-95bc-2844b0d3ba19)
+
 
 ## 3. Flowchart
-![alt text](https://github.com/rayabima/Embedded-System/blob/main/Media/Flow%20Chart.png?raw=true)
+![Flow Chart](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/e5d456b4-b548-45b7-b333-ed05df97911d)
+
 
 
 ## 4. Hasil dan Pembahasan
 ## Jika gagal terhubung
-![alt text](https://github.com/rayabima/Embedded-System/blob/main/Media/3.%20serial%20monitor%20setelah%20memasukan%20ssid%20dan%20pass.jpeg?raw=true)
+![3  serial monitor setelah memasukan ssid dan pass](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/383fbe09-e766-4161-8672-6a34d1b9bf33)
+
 
 ## Jika berhasil terhubung
-![alt text](https://github.com/rayabima/Embedded-System/blob/main/Media/4.%20Serial%20Monitor%20Setelah%20Berhasil%20Terhubung.jpeg?raw=true)
+![4  Serial Monitor Setelah Berhasil Terhubung](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/a57b4c60-3dcd-4e2c-bc62-8320139345ee)
+
 
 <p align="justify">Setelah program dirun, maka akan ditampilkan IP Address pada serial monitor. Akses IP Address tersebut pada browser. Isikan SSID dan Password yang sesuai. Jika berhasil terhubung maka akan seperti gambar yang diatas
 <b><p> Analisa </p></b>

@@ -54,7 +54,7 @@
 
    
 3. Widget On/Off Adafruit
-![2  Dokumentasi](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/69ba2e42-9187-401f-9f36-bc6f6c39cdc0)
+![2  Dokumentasi](https://github.com/hendrawansantana231/Sistem-Embedded/assets/155714822/69ba2e42-9187-401f-9f36-bc6f6c39cdc0) 
 
 
 <b><p>7. Analisa </p></b>
